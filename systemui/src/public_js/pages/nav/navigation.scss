@@ -1,0 +1,26 @@
+.selectedTab{
+    background-color: rgb(136, 136, 255);
+}
+
+.unselectedTab{
+    background-color: lightblue;
+}
+
+.tab{
+    left:0;
+    top:0;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+    box-shadow: gray 2px 1px  4px 1px;   
+}
+
+.icon{
+    width: 70%;
+    height: 70%;
+    margin-top: 5%;
+}
+
